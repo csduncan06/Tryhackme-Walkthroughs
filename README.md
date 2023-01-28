@@ -1,7 +1,7 @@
 # Tryhackme-Walkthroughs
 
 <p align="center">
-  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://tryhackme-badges.s3.amazonaws.com/wuu.png)" alt="Sublime's custom image"/>
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://tryhackme-badges.s3.amazonaws.com/wuu.png)" alt=""/>
 </p>
 
 # TryHackMe List
