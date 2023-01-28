@@ -33,7 +33,7 @@
     - Step 4: In the row named `date`, we can see the date we are looking for (23rd of August 2020,) navigate to the `recipient`
 
 ![Location](https://i.imgur.com/7uVimeJ)
-![Location](https://i.imgur.com/zYZMVlJ)`
+![Location](https://i.imgur.com/zYZMVlJ)
 ![Location](https://i.imgur.com/kyQLC53)
 ![Location](https://i.imgur.com/IrHpmgB)
  
