@@ -1,8 +1,6 @@
 # Tryhackme-Walkthroughs
 
-<p align="center">
-  <img src="banner.png" alt="Tryhackme ~ WUU"/>
-</p>
+<script src="https://tryhackme.com/badge/581466"></script>
 
 
 # TryHackMe List
