@@ -25,20 +25,15 @@
 
 - ***Question 1***. Who was the recepient of the SMS message sent on 23rd of August 2020?
 
-Step 1 : Open `DB Browser (SQLite)` on the desktop <br>
+  - Step 1 : Open `DB Browser (SQLite)` on the desktop <br>
 ![step1](img/img1.png)
-
-
-Step 2 : Select the `Open Database` option <br>
+  - Step 2 : Select the `Open Database` option <br>
 ![step2](img/img2.png)
-
-Step 2. Navigate to the directory`C:\Users\cmnatic\Desktop\OpJustEncase\var\mobile\Library\SMS` and open `sms.db` <br>
+  - Step 2. Navigate to the directory`C:\Users\cmnatic\Desktop\OpJustEncase\var\mobile\Library\SMS` and open `sms.db` <br>
 ![step3](img/img3.png)
-
-Step 3. Select `Browse Data` just below the `Open Database` button and change the `Table` to `message` <br>
+  - Step 3. Select `Browse Data` just below the `Open Database` button and change the `Table` to `message` <br>
 ![step4](img/img4.png)
- 
- Step 4: In the row named date, we can see the date we are looking for (23rd of August 2020,) navigate to the recipient 
+  - Step 4: In the row named date, we can see the date we are looking for (23rd of August 2020,) navigate to the recipient 
 *Answer **:** Lewis Randall* 
 
 - ***Question 2***. What did the SMS message say?
