@@ -26,7 +26,6 @@
 ***Question 1***. Who was the recepient of the SMS message sent on 23rd of August 2020?
 
 Step 1 : Open `DB Browser (SQLite)` on the desktop
-![Location](https://imgur.com/7uVimeJ)
 ![step1](img/img1.png)
 
 
