@@ -8,7 +8,7 @@
 
 ***Question 2***. What is the definition for an abstract view of a hard drive?
 *Answer **:** image*
-
+<br>
 **Task 6 -** Data Acquisition & Trust Certificates
 
 ***Question 1***. What is the name of a forensics tool that couldn't be used in a court of law, because data could be written to the device being analysed?
@@ -19,7 +19,7 @@
 
 ***Question 3***. What is the name of the certificate that gets stored on a computer when it becomes trusted?
 *Answer **:** trust certificate*
-
+<br>
 **Task 9 -** 9. Scenario: Operation JustEncase (Deploy)
 *access the machine via attackbox or RDP (if connected to THM vpn)*
 
