@@ -66,5 +66,4 @@ Using file explorer we can find the name images on the device. Navigate to the d
 
 - ***Question 8***. What is the value of the cookie that was left behind?
 Using Notepad++ open the file `C:\Users\cmnatic\Desktop\OpJustEncase\var\mobile\Library\Cookies\com.apple.itunesstored.plist`
-
 <br>*Answer **:** THM{COOKIES!!!}* 
